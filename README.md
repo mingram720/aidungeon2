@@ -1,18 +1,13 @@
 # AIDungeon2-Uncensored
 
-# Attention: This uncensored version is now obsolete, as the original author has added a feature that enables the user to disable or enable censorship. As of Tuesday, December 10, 2019, I have stopped work on this fork, and it will no longer be kept up-to-date. Please visit upstream if you want to play the game. I will keep it functional at the very least, but other than that, I'm keeping it up for archival and legacy purposes.
-
-This is a fork of the original AIDungeon 2, with the ProfanityFilter features removed. Vanilla AIDungeon 2 scans and censors the output of the game, looking for expletives, sexual content, racial slurs, and others.
+This is a fork of the original AIDungeon 2 Uncensored fork, with temperature changed to enhance story cohesion. Mainly for personal use and experimentation. 
 
 ## This fork removes the profanity filter entirely.
 
 Please note: if you are offended at all by the output that is produced, I encourage you to visit the upstream repository instead, and run that repo. I have no control over what output is produced, and neither does upstream. You have been warned.
 
-Quick disclaimer: I have no affiliation with Nick Walton. I made this repo to remove censorship, and that's it. If you have issues with the game itself, please open an issue on the main repository, as I will be providing no further support for this repo beyond keeping it up-to-date and free of censorship.
 
-Note: This repo will be kept up-to-date with upstream, minus the ProfanityFilter features.
-
-## [Colab Link](https://colab.research.google.com/drive/1OjBQe4H4C2s-p4-OeJoXw5DStIjPy2VS)
+## [Colab Link](https://colab.research.google.com/github/mingram720/aidungeon2/blob/master/AIDungeon_2_Uncensored.ipynb)
 
 
 ### Original Description
